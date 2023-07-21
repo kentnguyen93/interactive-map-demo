@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^10.1.0",
     "firebase-admin": "^9.2.0",
     "svgson": "^4.1.0"
   }
